@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+hi 
+i am doing this to submit my cs50 assignments
